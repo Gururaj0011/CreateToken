@@ -26,3 +26,9 @@ The standard ERC-20 `transfer` function is extended to include additional checks
 ## License
 
 This smart contract is released under the MIT License. See the SPDX-License-Identifier at the top of the contract file for details.
+##Author 
+
+Gururaj B M 
+
+gururaj48103@gmail.com
+
